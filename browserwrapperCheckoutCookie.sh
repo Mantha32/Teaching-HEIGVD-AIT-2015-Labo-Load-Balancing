@@ -24,7 +24,7 @@ echo;
 echo "---------------------------------"
 echo "Refresh the request to checkout the loadbalancer policies";
 while true;
-    do curl http://192.168.42.42  --cookie "$cookie";
+    do curl -i http://192.168.42.42  --cookie "$cookie";
     sleep 1;
     echo"" ; 
     done 

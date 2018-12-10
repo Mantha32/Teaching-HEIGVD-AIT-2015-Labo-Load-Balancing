@@ -521,3 +521,9 @@ the bundled one.
 ```
 mv /opt/vagrant/embedded/bin/curl /opt/vagrant/embedded/bin/curl.bak
 ```
+
+source for laod-balancing documentation
+[set up HAProxy](www.digitalocean.com/community/tutorials/how-to-use-haproxy-to-set-up-http-load-balancing-on-an-ubuntu-vps#testing-load-balancing-and-failover)- 
+[psersistence sticky session](https://www.haproxy.com/blog/load-balancing-affinity-persistence-sticky-sessions-what-you-need-to-know/)
+[Ip source hash](https://www.haproxy.com/blog/client-ip-persistence-or-source-ip-hash-load-balancing/)
+[Configuring HAProxy for Session Persistence](https://docs.oracle.com/cd/E37670_01/E41138/html/section_jyh_zhz_4r.html)
